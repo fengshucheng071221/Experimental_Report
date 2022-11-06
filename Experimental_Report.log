@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.31)  1 NOV 2022 10:19
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.31)  6 NOV 2022 09:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1692,10 +1692,10 @@ LaTeX Warning: Command \textless invalid in math mode on input line 218.
 
 ] [10
 
-] [11] (./Experimental_Report.bbl) [12
+] [11] [12] (./Experimental_Report.bbl [13
 
 
-]
+]) [14]
 Underfull \hbox (badness 10000) in paragraph at lines 288--293
 
  []
@@ -1705,13 +1705,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 294--302
 
  []
 
-[13
-
-] [14
-
-] [15
+[15
 
 ] [16
+
+] [17
+
+] [18
 
 ] (./Experimental_Report.aux)
 
@@ -1722,12 +1722,12 @@ Package rerunfilecheck Info: File `Experimental_Report.out' has not changed.
 (rerunfilecheck)             Checksum: 39F90EDF2BA700880D2C56FDA4324B16;3052.
  ) 
 Here is how much of TeX's memory you used:
- 40693 strings out of 476930
- 967350 string characters out of 5825868
- 1486911 words of memory out of 5000000
- 59921 multiletter control sequences out of 15000+600000
+ 40708 strings out of 476930
+ 967632 string characters out of 5825868
+ 1487911 words of memory out of 5000000
+ 59936 multiletter control sequences out of 15000+600000
  418773 words of font info for 149 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 96i,11n,102p,1209b,622s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 96i,11n,102p,1209b,594s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Experimental_Report.pdf (18 pages).
+Output written on Experimental_Report.pdf (20 pages).

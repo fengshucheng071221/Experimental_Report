@@ -24,6 +24,40 @@
 \providecommand{\bibdate}[1]{#1}
 \providecommand{\biburl}[1]{\newline\url{#1}}
 
+\bibitem{Li2022AAAI}
+\bibauthor{LI Z\@, SHI Y\@, LING H, et~al}\@. \bibtitle{Reliability Exploration
+  with Self-Ensemble Learning for Domain Adaptive Person
+  Re-identification}\bibmark{[C]} //\thinspace{}\bibbooktitle{AAAI}\@.
+  \bibyear{2022}\thinspace{}\textnormal{:
+  }\bibpages{1527\thinspace{}\textnormal{--}\thinspace{}1535}\@.
+
+\bibitem{Chen2021MMA}
+\bibauthor{CHEN J\@, CHEN J\@, DONG Y, et~al}\@. \bibtitle{Video Saliency
+  Prediction via Deep Eye Movement Learning}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{ACM MM in Asia}\@.
+  \bibyear{2021}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}6}\@.
+
+\bibitem{Chen2022IMC}
+\bibauthor{CHEN J\@, LI Q\@, REN D, et~al}\@. \bibtitle{Asymmetry-aware
+  Bilinear Pooling in Multi-modal Data for Head Pose
+  Estimation}\bibmark{[J]}\@. \bibjournal{Signal Processing: Image
+  Communication}\@, \bibyear{2022}\@.
+
+\bibitem{Ren2021JVCI}
+\bibauthor{REN D\@, CHEN J\@, ZHONG J, et~al}\@. \bibtitle{Gaze Estimation via
+  Bilinear Pooling-Based Attention Networks}\bibmark{[J]}\@.
+  \bibjournal{Journal of Visual Communication and Image Representation}\@,
+  \bibyear{2021}\@, \bibvolume{81}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}8}\@.
+
+\bibitem{Ren2022MTAP}
+\bibauthor{REN D\@, WEN X\@, CHEN J, et~al}\@. \bibtitle{Multi-view Facial
+  Action Unit Detection via DenseNets and CapsNets}\bibmark{[J]}\@.
+  \bibjournal{Multimedia Tools and Applications}\@, \bibyear{2022}\@,
+  \bibvolume{81}\thinspace{}\textnormal{:
+  }\bibpages{19377\thinspace{}\textnormal{--}\thinspace{}19394}\@.
+
 \bibitem{STR2021Neurocom}
 \bibauthor{CHEN J\@, LI Z\@, JIN Y, et~al}\@. \bibtitle{Video Saliency
   Prediction via Spatio-Temporal Reasoning}\bibmark{[J]}\@.
