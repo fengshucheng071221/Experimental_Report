@@ -29,3 +29,5 @@ git revert HEAD^   //撤销前前一次 commit
 版本回退还可以用git reset命令, 例如:
 git reset HEAD       // 撤销前一次 commit
 git revert是用一次新的commit来回滚之前的commit, git reset是直接删除指定的commit
+
+Modified by fengshucheng071221 (19727101221@163.com) for the Git practice task, 2026-10-27.
